@@ -1,2 +1,2 @@
 # Machine-Learning-Lab
-Machine Learning Lab Assignments
+Machine Learning lab assignments and practical implementations using Python and Jupyter Notebook.
